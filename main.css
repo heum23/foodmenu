@@ -1,0 +1,553 @@
+body {
+  margin: 0 auto !important;
+}
+.container {
+  background-color: white;
+}
+.mainpage1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.page1 {
+  background-color: rgb(29, 23, 2);
+  width: 500px;
+  height: 500px;
+  color: white;
+}
+.blank {
+  margin-top: 20px;
+}
+.mainmenu {
+  display: flex;
+  justify-content: space-between;
+  margin-right: 50px;
+}
+.mainmenu2 {
+  display: flex;
+  justify-content: space-around;
+  margin-left: -80px;
+}
+.list1 {
+  font-size: 13px;
+  font-family: "TheJamsil5Bold";
+  src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2302_01@1.0/TheJamsil5Bold.woff2")
+    format("woff2");
+  font-weight: 700;
+  font-style: normal;
+}
+.list2 {
+  font-family: "GmarketSansMedium";
+  src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansMedium.woff")
+    format("woff");
+  font-weight: bold;
+  font-style: normal;
+  margin-left: 38px;
+  font-size: 20px;
+}
+.text1 {
+  margin-bottom: -5px;
+  font-size: 13px;
+  margin-left: 40px;
+  font-family: "TheJamsil5Bold";
+  src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2302_01@1.0/TheJamsil5Bold.woff2")
+    format("woff2");
+  font-weight: 100;
+  font-style: normal;
+}
+.text2 {
+  font-size: 10px;
+  font-weight: 100;
+}
+.title {
+  font-family: "GmarketSansMedium";
+  src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansMedium.woff")
+    format("woff");
+  font-weight: bold;
+  font-style: normal;
+  margin-left: 38px;
+  font-size: 30px;
+}
+.food1 {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-start;
+}
+.jpg1 {
+  margin-top: -30px;
+  margin-right: 60px;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+.page2 {
+  color: black;
+  background-color: rgb(226, 220, 220);
+  width: 700px;
+  height: 500px;
+}
+.mainpage2 {
+  display: flex;
+  justify-content: center;
+}
+.text4 {
+  margin-top: 50px;
+  margin-left: 20px;
+}
+.text5 {
+  font-family: "GmarketSansMedium";
+  src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansMedium.woff")
+    format("woff");
+  font-weight: bold;
+  font-style: normal;
+  margin-left: 40px;
+  font-size: 15px;
+  margin-top: -30px;
+}
+.list3 {
+  font-family: "GmarketSansMedium";
+  src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansMedium.woff")
+    format("woff");
+  font-weight: bold;
+  font-style: normal;
+  margin-left: -80px;
+  font-size: 30px;
+}
+.list4 {
+  font-family: "GmarketSansMedium";
+  src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansMedium.woff")
+    format("woff");
+  font-weight: bold;
+  font-style: normal;
+  margin-left: 10px;
+  font-size: 30px;
+}
+.food3 {
+  margin-top: 10px;
+  margin-left: 50px;
+}
+.jpg6 {
+  border-radius: 50%;
+  width: 400px;
+  height: 400px;
+}
+.png1 {
+  border-radius: 50%;
+  width: 125px;
+  height: 125px;
+  position: relative;
+  top: -300px;
+  left: 500px;
+  z-index: 3;
+}
+.png2 {
+  border-radius: 50%;
+  width: 125px;
+  height: 125px;
+  position: relative;
+  top: -170px;
+  left: 370px;
+  z-index: 1;
+}
+.png3 {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  position: relative;
+  top: -250px;
+  left: 250px;
+  z-index: 2;
+}
+.food4 {
+  margin-top: -50px;
+}
+
+.page3 {
+  color: white;
+  background-color: rgb(29, 23, 2);
+  width: 500px;
+  height: 200px;
+}
+.food2 {
+  margin-left: 10px;
+}
+.text3 {
+  position: relative;
+  top: -30px;
+  right: -20px;
+}
+.jpg4 {
+  position: relative;
+  left: 40px;
+  margin-top: 50px;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+.jpg2 {
+  position: relative;
+  left: 40px;
+  margin-top: 50px;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  z-index: 2;
+}
+.jpg3 {
+  position: relative;
+  right: -20px;
+  margin-top: 50px;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  z-index: 1;
+}
+.jpg5 {
+  position: relative;
+  right: 30px;
+  margin-top: 48px;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  z-index: 0;
+}
+.page4 {
+  background-color: rgb(198, 191, 158);
+  width: 700px;
+  height: 200px;
+}
+.mainpage3 {
+  display: flex;
+  justify-content: center;
+}
+.text6 {
+  font-family: "GmarketSansMedium";
+  src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansMedium.woff")
+    format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-size: 14px;
+}
+.blank2 {
+  margin-top: 25px;
+  margin-left: 25px;
+}
+.list5 {
+  position: relative;
+  right: -500px;
+  top: -30px;
+  font-weight: 700;
+  font-size: 25px;
+}
+.text8 {
+  margin-left: 25px;
+  margin-top: 150px;
+}
+.list6 {
+  font-family: "GmarketSansMedium";
+  src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansMedium.woff")
+    format("woff");
+  font-weight: bold;
+  font-style: normal;
+  margin-left: 25px;
+  font-size: 30px;
+}
+.jpg7 {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+.jpg8 {
+  width: 110px;
+  height: 110px;
+  border-radius: 50%;
+}
+.food5 {
+  position: relative;
+  top: -45px;
+  right: -190px;
+}
+.text9 {
+  position: relative;
+  top: -55px;
+}
+.text10 {
+  position: relative;
+  top: -90px;
+  left: 280px;
+  font-size: 12px;
+}
+.thick {
+  font-weight: 600;
+}
+.page5 {
+  background-color: rgb(226, 220, 220);
+  width: 1200px;
+  height: 1000px;
+}
+.title2 {
+  margin-top: 60px;
+  margin-left: 50px;
+  color: white;
+  background-color: rgb(29, 23, 2);
+  width: 360px;
+  height: 40px;
+  font-size: 25px;
+  text-align: center;
+  font-family: "GmarketSansMedium";
+  src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansMedium.woff")
+    format("woff");
+  font-weight: 300;
+  font-style: normal;
+}
+.text11 {
+  font-family: "TheJamsil5Bold";
+  src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2302_01@1.0/TheJamsil5Bold.woff2")
+    format("woff2");
+  font-weight: 100;
+  font-style: normal;
+  margin-left: 60px;
+  text-align: left;
+  font-size: 11px;
+}
+.blank3 {
+  margin-top: 10px;
+}
+.titlebox {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+  padding: 20px;
+}
+.titlebox2 {
+  text-align: left;
+  width: 500px;
+}
+.titlebox2 h2 {
+  font-size: 18px;
+  font-weight: bold;
+  margin: 0;
+  padding-bottom: 5px;
+  margin-left: -20px;
+}
+.titlebox2 hr {
+  border-bottom: 1px solid;
+  margin: 0;
+  margin-left: -20px;
+}
+.food6 {
+  margin-left: 80px;
+  margin-right: 50px;
+}
+.png4 {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin-right: 40px;
+}
+.png5 {
+  width: 110px;
+  height: 110px;
+  border-radius: 50%;
+  margin-right: 30px;
+}
+.png6 {
+  width: 110px;
+  height: 110px;
+  border-radius: 50%;
+
+  margin-right: 180px;
+}
+.png7 {
+  width: 110px;
+  height: 110px;
+  border-radius: 50%;
+  margin-right: 30px;
+}
+.png8 {
+  width: 110px;
+  height: 110px;
+  border-radius: 50%;
+  margin-right: 30px;
+}
+.png9 {
+  width: 110px;
+  height: 110px;
+  border-radius: 50%;
+}
+.menu2 {
+  display: flex;
+  margin-left: 90px;
+}
+.text12 {
+  margin-right: 80px;
+  font-size: 18px;
+  font-weight: 700;
+}
+.text13 {
+  margin-right: 90px;
+  font-size: 18px;
+  font-weight: 700;
+}
+.text14 {
+  margin-right: 220px;
+  font-size: 18px;
+  font-weight: 700;
+}
+.text15 {
+  margin-right: 80px;
+  font-size: 18px;
+  font-weight: 700;
+}
+.text16 {
+  margin-right: 50px;
+  font-size: 18px;
+  font-weight: 700;
+}
+.text17 {
+  font-size: 18px;
+  font-weight: 700;
+}
+.price {
+  display: flex;
+  justify-content: space-between;
+  font-size: 25px;
+  font-weight: 900;
+}
+.price1 {
+  position: relative;
+  right: -80px;
+}
+.price2 {
+  position: relative;
+  right: -10px;
+}
+.price3 {
+  position: relative;
+  right: 50px;
+}
+.price4 {
+  position: relative;
+  right: -15px;
+}
+.price5 {
+  position: relative;
+  right: 50px;
+}
+.price6 {
+  position: relative;
+  right: 120px;
+}
+.food7 {
+  padding-left: 70px;
+  padding-top: 100px;
+  display: flex;
+  align-items: flex-end;
+}
+.png10 {
+  width: 120px;
+  height: 120px;
+}
+.tlqkf {
+  position: relative;
+  top: -20px;
+}
+.menu3 {
+  font-size: 22px;
+  font-weight: 700;
+  position: relative;
+  right: -40px;
+  top: 10px;
+}
+.list7 {
+  font-family: "GmarketSansMedium";
+  src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansMedium.woff")
+    format("woff");
+  font-weight: bold;
+  font-style: normal;
+  margin-left: 38px;
+  font-size: 20px;
+}
+.png11 {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+}
+.png12 {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  padding-left: 30px;
+}
+.png13 {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  padding-left: 30px;
+}
+.food8 {
+  padding-left: 70px;
+  display: flex;
+}
+.list8 {
+  font-family: "GmarketSansMedium";
+  src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansMedium.woff")
+    format("woff");
+  font-weight: bold;
+  font-style: normal;
+  margin-left: 38px;
+  font-size: 20px;
+  display: flex;
+}
+.text18 {
+  text-align: left;
+  padding-left: 60px;
+}
+.text19 {
+  text-align: right;
+  padding-left: 70px;
+}
+.text20 {
+  text-align: left;
+  padding-left: 70px;
+}
+.titlebox3 {
+  position: relative;
+  top: -400px;
+  right: -320px;
+}
+.menu4 {
+  display: flex;
+  justify-content: space-around;
+  padding-left: 280px;
+  padding-right: 300px;
+}
+.text21 {
+  padding-left: 40px;
+  font-size: 25px;
+  font-weight: 700;
+}
+.menu7 {
+  display: flex;
+  justify-content: space-around;
+  padding-left: 280px;
+  padding-right: 300px;
+}
+.menu8 {
+  display: flex;
+  justify-content: space-around;
+  padding-left: 290px;
+  padding-right: 300px;
+}
+.menu9 {
+  display: flex;
+  justify-content: space-around;
+  padding-left: 340px;
+  padding-right: 300px;
+}
+.menu10 {
+  display: flex;
+  justify-content: space-around;
+  padding-left: 290px;
+  padding-right: 300px;
+}

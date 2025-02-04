@@ -1,0 +1,46 @@
+.container {
+  display: flex;
+  justify-content: flex-start;
+}
+.mainbox {
+  background-color: white;
+  width: 750px;
+  height: 800px;
+  border-top-color: black;
+  border-bottom-color: black;
+  border-left-color: black;
+  border-right-color: black;
+  border-width: medium;
+  border-style: solid;
+}
+.mainbox2 {
+  background-color: white;
+  width: 750px;
+  height: 800px;
+  border-top-color: black;
+  border-bottom-color: black;
+  border-left-color: black;
+  border-right-color: black;
+  border-width: medium;
+  border-style: solid;
+}
+.png1 {
+  margin-left: 180px;
+}
+.text1 {
+  font-size: 3em;
+  color: red;
+  font-weight: 900;
+}
+.text2 {
+  font-size: 2em;
+}
+.kimci {
+  text-align: center;
+  color: red;
+  font-size: 4em;
+}
+.kimci2 {
+  font-size: 30px;
+  text-align: left;
+}
